@@ -1,0 +1,5 @@
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos executáveis
+*.exe
